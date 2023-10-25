@@ -1,1 +1,1 @@
-# grocery-store-management
+Gorcery store management system
